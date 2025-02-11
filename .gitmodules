@@ -1,0 +1,6 @@
+[submodule "Experiment1"]
+	path = Experiment1
+	url = https://github.com/simran-n17/Docker-Basics.git
+[submodule "Experiment2"]
+	path = Experiment2
+	url = https://github.com/simran-n17/Streamlit-Docker.git
