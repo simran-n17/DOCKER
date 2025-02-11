@@ -7,3 +7,12 @@
 [submodule "Experiment3"]
 	path = Experiment3
 	url = https://github.com/simran-n17/Docker-MySql.git
+[submodule "Experiment4"]
+	path = Experiment4
+	url = https://github.com/simran-n17/Docker-StreamlitModel.git
+[submodule "Experiment5"]
+	path = Experiment5
+	url = https://github.com/simran-n17/Docker-Network.git
+[submodule "Experiment6"]
+	path = Experiment6
+	url = https://github.com/simran-n17/FullStack-Docker.git
