@@ -4,3 +4,6 @@
 [submodule "Experiment2"]
 	path = Experiment2
 	url = https://github.com/simran-n17/Streamlit-Docker.git
+[submodule "Experiment3"]
+	path = Experiment3
+	url = https://github.com/simran-n17/Docker-MySql.git
